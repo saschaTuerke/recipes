@@ -1,5 +1,4 @@
-        <html lang="de">
-        <body>
+
           <div itemscope itemtype="http://schema.org/Recipe">
             <meta itemprop="mainEntityOfPage" content="True" />
             <h1 itemprop="name">AAA</h1>
@@ -21,5 +20,3 @@
               <p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p>
             </div>
           </div>
-        </body>
-        </html>
