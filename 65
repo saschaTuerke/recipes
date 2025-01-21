@@ -1,6 +1,7 @@
 
           <div itemscope itemtype="http://schema.org/Recipe">
             <meta itemprop="mainEntityOfPage" content="True" />
+<img src="https://github.com/saschaTuerke/recipes/blob/main/1737455098531.jpg?raw=true" itemprop="image" />
             <h1 itemprop="name">AAA</h1>
             <div itemprop="description">"Rezept "</div>
             
