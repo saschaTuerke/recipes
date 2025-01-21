@@ -6,6 +6,8 @@
 <div itemprop="description">"Rezept"</div>
 	  
 Prep Time: <time itemprop="prepTime" datetime="PT120M">120 min</time>
+Cook Time: <time itemprop="cookTime" datetime="PT1H">1 hour</time>
+Total Time: <time itemprop="totalTime" datetime="PT1H30M">1 hour 30 min</time>
 Yield: <span itemprop="recipeYield">2 Portionen</span>
 
 Zutaten:
