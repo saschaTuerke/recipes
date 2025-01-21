@@ -12,12 +12,10 @@ Yield: <span itemprop="recipeYield">1 9" pie (8 servings)</span>
 
 Ingredients:
 <span itemprop="ingredients">1 recipe pastry for a 9 inch double crust pie</span>
-<span itemprop="ingredients">1/2 cup unsalted butter</span>
-<span itemprop="ingredients">3 tablespoons all-purpose flour</span>
-<span itemprop="ingredients">1/4 cup water</span>
-<span itemprop="ingredients">1/2 cup white sugar</span>
-<span itemprop="ingredients">1/2 cup packed brown sugar</span>
-<span itemprop="ingredients">8 Granny Smith apples - peeled, cored and sliced</span>
+<span itemprop="ingredients">1000.66 Stück Naan</span>
+<span itemprop="ingredients">1000.55 Stück Kartoffeln</span>
+<span itemprop="ingredients">0.5 Stück Kartoffeln</span>
+<span itemprop="ingredients">123123123123.4 Stück Kümmel</span>
 
   <ol itemprop="recipeInstructions">
     <li>Preheat oven to 425 degrees F (220 degrees C).</li>
