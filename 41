@@ -1,0 +1,20 @@
+<div itemscope itemtype="http://schema.org/Recipe">
+  <link itemprop="url" href="https://raw.githubusercontent.com/saschaTuerke/recipes/refs/heads/main/pip41" />
+  <meta itemprop="mainEntityOfPage" content="True" />
+  <img src="http://images.media-allrecipes.com/userphotos/720x405/736203.jpg" alt="Apple Pie by Grandma Ople" title="Apple Pie by Grandma Ople" itemprop="image" />
+  <h1 itemprop="name">Apple Pie by Grandma Ople</h1>
+  <div itemprop="description">"This was my grandmother's apple pie recipe.  I have never seen another one quite like it.  It will always be my favorite and has won me several first place prizes in local competitions.  I hope it becomes one of your favorites as well!"</div>
+
+Prep Time: <time itemprop="prepTime" datetime="PT30M">30 min</time>
+Cook Time: <time itemprop="cookTime" datetime="PT1H">1 hour</time>
+Total Time: <time itemprop="totalTime" datetime="PT1H30M">1 hour 30 min</time>
+Yield: <span itemprop="recipeYield">1 9" pie (8 servings)</span>
+
+Ingredients:
+<span itemprop="ingredients">1 recipe pastry for a 9 inch double crust pie</span>
+<span itemprop="ingredients">1000,66 Stück Naan</span>
+
+<div itemprop="recipeInstructions">
+	<p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p>
+</div>
+</div>
