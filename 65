@@ -1,22 +1,41 @@
-<div itemscope itemtype="http://schema.org/Recipe">
-  <link itemprop="url" href="http://allrecipes.com/recipe/12682/apple-pie-by-grandma-ople/" />
-  <meta itemprop="mainEntityOfPage" content="True" />
-  <img src="http://images.media-allrecipes.com/userphotos/720x405/736203.jpg" alt="Apple Pie by Grandma Ople" title="Apple Pie by Grandma Ople" itemprop="image" />
-  <h1 itemprop="name">Apple Pie by Grandma Ople</h1>
-  <div itemprop="description">"This was my grandmother's apple pie recipe.  I have never seen another one quite like it.  It will always be my favorite and has won me several first place prizes in local competitions.  I hope it becomes one of your favorites as well!"</div>
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AAA</title>
+</head>
+<body>
+  <article itemscope itemtype="http://schema.org/Recipe">
+      <h1 itemprop="name">AAA</h1>
+      
+      <img itemprop="image" src="1737455098531.jpg" alt="AAA">
+      
+      <div itemprop="recipeIngredient">
+          <h2>Zutaten (für <span itemprop="recipeYield">2 Portionen</span>):</h2>
+          <ul>
+              
+                  <li>1000.66 Stück Naan</li>
+              
+                  <li>1000.55 Stück Kartoffeln</li>
+              
+                  <li>0.5 Stück Kartoffeln</li>
+              
+                  <li>123123123123.4 Stück Kümmel</li>
+              
+          </ul>
+      </div>
 
-  Prep Time: <time itemprop="prepTime" datetime="PT30M">30 min</time>
-  Cook Time: <time itemprop="cookTime" datetime="PT1H">1 hour</time>
-  Total Time: <time itemprop="totalTime" datetime="PT1H30M">1 hour 30 min</time>
-  Yield: <span itemprop="recipeYield">1 9" pie (8 servings)</span>
-  
-  Ingredients:
-  <span itemprop="ingredients">1 kg Kartoffeln</span>
-  <span itemprop="ingredients">2 Paprika</span>
+      <div itemprop="recipeInstructions">
+          <h2>Zubereitung:</h2>
+          <p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p>
+      </div>
 
-
-  <ol itemprop="recipeInstructions">
-    <li>Preheat oven to 425 degrees F (220 degrees C).</li>
-    <li>Melt the butter in a saucepan. Stir in flour to form a paste.</li>
-  </ol>
-</div>
+      <div>
+          <p>Zubereitungszeit: <span itemprop="prepTime">120</span></p>
+          <meta itemprop="datePublished" content="2025-01-20">
+          <meta itemprop="dateModified" content="2025-01-21">
+      </div>
+  </article>
+</body>
+</html>
