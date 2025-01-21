@@ -1,1 +1,20 @@
-
+<div itemscope itemtype="http://schema.org/Recipe">
+  <link itemprop="url" href="https://raw.githubusercontent.com/saschaTuerke/recipes/refs/heads/main/65" />
+	<meta itemprop="mainEntityOfPage" content="True" />
+	<img src="http://images.media-allrecipes.com/userphotos/720x405/736203.jpg" alt="Apple Pie by Grandma Ople" title="Apple Pie by Grandma Ople" itemprop="image" />
+	<div itemprop="description">"Rezept"</div>
+		  
+	Prep Time: <time itemprop="prepTime" datetime="PT120M">120 min</time>
+	Yield: <span itemprop="recipeYield">2 Portionen</span>
+	
+	Zutaten:
+	<span itemprop="ingredients">1000.66 Stück Naan</span>
+	<span itemprop="ingredients">1000.55 Stück Kartoffeln</span>
+	<span itemprop="ingredients">0.5 Stück Kartoffeln</span>
+	<span itemprop="ingredients">123123123123.4 Stück Kümmel</span>
+	
+	<div itemprop="recipeInstructions">
+		<h2>Zubereitung:</h2>
+		<p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p>
+	</div>
+</div>
