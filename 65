@@ -1,41 +1,30 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AAA</title>
-</head>
-<body>
-  <article itemscope itemtype="http://schema.org/Recipe">
-      <h1 itemprop="name">AAA</h1>
-      
-      <img itemprop="image" src="1737455098531.jpg" alt="AAA">
-      
-      <div itemprop="recipeIngredient">
-          <h2>Zutaten (für <span itemprop="recipeYield">2 Portionen</span>):</h2>
-          <ul>
-              
-                   <span itemprop="ingredients">1000.66 Stück Naan</span>
-              
-                   <span itemprop="ingredients">1000.55 Stück Kartoffeln</span>
-              
-                   <span itemprop="ingredients">0.5 Stück Kartoffeln</span>
-              
-                   <span itemprop="ingredients">123123123123.4 Stück Kümmel</span>
-              
-          </ul>
-      </div>
+        <html lang="de">
+        <head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>AAA</title>
+        </head>
+        <body>
+          <div itemscope itemtype="http://schema.org/Recipe">
+            <meta itemprop="mainEntityOfPage" content="True" />
+            <h1 itemprop="name">AAA</h1>
+            <div itemprop="description">"Rezept "</div>
+            
+            Prep Time: <time itemprop="prepTime" datetime="PT120M">120 min</time>
+            Yield: <span itemprop="recipeYield">2 Portionen</span>
 
-      <div itemprop="recipeInstructions">
-          <h2>Zubereitung:</h2>
-          <p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p>
-      </div>
+            Zutaten:
+            
+              <span itemprop="ingredients">1000.66 Stück Naan</span>
+              <span itemprop="ingredients">1000.55 Stück Kartoffeln</span>
+              <span itemprop="ingredients">0.5 Stück Kartoffeln</span>
+              <span itemprop="ingredients">123123123123.4 Stück Kümmel</span>
 
-      <div>
-          <p>Zubereitungszeit: <span itemprop="prepTime">120 min</span></p>
-          <meta itemprop="datePublished" content="2025-01-20">
-          <meta itemprop="dateModified" content="2025-01-21">
-      </div>
-  </article>
-</body>
-</html>
+
+            <div itemprop="recipeInstructions">
+              <h2>Zubereitung:</h2>
+              <p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p><p>Test Anleitung</p>
+            </div>
+          </div>
+        </body>
+        </html>
