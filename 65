@@ -1,8 +1,7 @@
 
           <div itemscope itemtype="http://schema.org/Recipe">
             <meta itemprop="mainEntityOfPage" content="True" />
-<img src="https://github.com/saschaTuerke/recipes/blob/main/1737455098531.jpg?raw=true" itemprop="image" />
-            <h1 itemprop="name">AAA</h1>
+<img src="http://images.media-allrecipes.com/userphotos/720x405/736203.jpg" alt="Apple Pie by Grandma Ople" title="Apple Pie by Grandma Ople" itemprop="image" />
             <div itemprop="description">"Rezept "</div>
             
             Prep Time: <time itemprop="prepTime" datetime="PT120M">120 min</time>
