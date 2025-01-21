@@ -1,0 +1,18 @@
+          <div itemscope itemtype="http://schema.org/Recipe">
+            <link itemprop="url" href="https://raw.githubusercontent.com/saschaTuerke/recipes/refs/heads/main/33" />
+            <meta itemprop="mainEntityOfPage" content="True" />
+            <img src="https://raw.githubusercontent.com/saschaTuerke/recipes/refs/heads/main/1727027059859.jpg" itemprop="image" />
+            <h1 itemprop="name">123</h1>
+            <div itemprop="description">"123"</div>
+            
+            Yield: <span itemprop="recipeYield">3 Portionen</span>
+
+            Ingredients: 
+              <span itemprop="ingredients">12 kg Kartoffeln</span>
+              <span itemprop="ingredients">34 cm 123</span>
+
+            <div itemprop="recipeInstructions">
+              gchn
+            </div>
+          </div>
+          
